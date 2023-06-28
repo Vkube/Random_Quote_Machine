@@ -26,27 +26,24 @@ You can see a live demo of the app [here](https://3nlxhr-3000.csb.app/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-quote-machine.git
+   git clone https://github.com/Vkube/Random_Quote_Machine.git
+   ```
+2. Navigate to the project directory:
+    ```bash
+   cd random-quote-machine
+    ```
 
-    Navigate to the project directory:
-
-    bash
-
-cd random-quote-machine
-
-Install the dependencies:
-
-bash
-
-npm install
-
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
 Start the development server:
 
-bash
+```bash
+npm start
+```
 
-    npm start
-
-    Open your browser and visit http://localhost:3000 to see the app.
+Open your browser and visit http://localhost:3000 to see the app.
 
 Usage
 
@@ -55,7 +52,7 @@ Usage
     The author of the quote will be displayed below the quote text.
     Click the "Tweet Quote" button to tweet the current quote.
 
-Acknowledgements
+Acknowledgments
 
     The random quotes are fetched from the Quotable API.
 
