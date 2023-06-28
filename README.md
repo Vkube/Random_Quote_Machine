@@ -2,7 +2,7 @@
 
 This is a web app that displays random quotes and allows users to fetch new quotes, display the author, and tweet the current quote. It was built as a part of the FreeCodeCamp Front End Libraries Projects.
 
-![Random Quote Machine Screenshot](screenshot.png)
+![Random Quote Machine Screenshot](screenshotRandomMachine.PNG)
 
 ## Features
 
