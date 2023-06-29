@@ -13,7 +13,7 @@ This is a web app that displays random quotes and allows users to fetch new quot
 
 ## Demo
 
-You can see a live demo of the app [here](https://3nlxhr-3000.csb.app/).
+You can see a live demo of the app [here](http://random-quote-machine-app.surge.sh/).
 
 ## Technologies Used
 
